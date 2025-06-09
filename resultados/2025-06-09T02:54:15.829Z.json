@@ -1,0 +1,76 @@
+{
+  "timestamp": "2025-06-09T02:54:15.829Z",
+  "data": {
+    "partidos": [
+      {
+        "partido": "900 - FRENTE RENOVADOR DE LA CONCORDIA\n\nMacias, Sebastian Horacio",
+        "votos": 97046,
+        "porcentaje": 30.3
+      },
+      {
+        "partido": "96 - LA LIBERTAD AVANZA\n\nHartfield, Diego Gabriel",
+        "votos": 66619,
+        "porcentaje": 20.7
+      },
+      {
+        "partido": "653 - POR LA VIDA Y LOS VALORES\n\nAmarilla, Ramón Oscar",
+        "votos": 45480,
+        "porcentaje": 14.1
+      },
+      {
+        "partido": "184 - AGRARIO Y SOCIAL\n\nBarbaro, Hector Orlando (cacho)",
+        "votos": 42918,
+        "porcentaje": 13.3
+      },
+      {
+        "partido": "657 - PARTIDO LIBERTARIO\n\nArjol, Martin Alfredo",
+        "votos": 22740,
+        "porcentaje": 7
+      },
+      {
+        "partido": "902 - FRENTE UNIDOS POR EL FUTURO\n\nKoch, Santiago Nicolas (santi)",
+        "votos": 15693,
+        "porcentaje": 4.9
+      },
+      {
+        "partido": "656 - TIERRA TECHO Y TRABAJO\n\nSereno, Martin Anibal",
+        "votos": 9928,
+        "porcentaje": 3
+      },
+      {
+        "partido": "71 - PARTIDO DEL OBRERO\n\nZeretzki, Anibal Ruben (tato)",
+        "votos": 8800,
+        "porcentaje": 2.7
+      },
+      {
+        "partido": "644 - PARTIDO DE INTEGRACION Y MILITANCIA\n\nCavalheiro, Roberto Juan",
+        "votos": 3865,
+        "porcentaje": 1.2
+      },
+      {
+        "partido": "641 - MOVIMIENTO POSITIVO\n\nNielsen, Gabriel Conrado",
+        "votos": 3223,
+        "porcentaje": 1
+      },
+      {
+        "partido": "654 - PARTIDO DEMOCRATA\n\nZart, Nelly",
+        "votos": 2998,
+        "porcentaje": 0.9
+      },
+      {
+        "partido": "901 - CONFLUENCIA POPULAR POR LA PATRIA\n\nGurina, Olga Monica",
+        "votos": 2000,
+        "porcentaje": 0.6
+      }
+    ],
+    "resumen": {
+      "VOTOS POSITIVOS": 321310,
+      "VOTOS EN BLANCO": 7250,
+      "VOTOS OBSERVADOS": 2900,
+      "VOTOS DE IDENTIDAD IMPUGNADA": 2200,
+      "PERSONAL ASIGNADO AL CENTRO DE VOTACION": 360,
+      "TOTAL DE VOTOS": 334020
+    },
+    "porcentajeMesas": null
+  }
+}

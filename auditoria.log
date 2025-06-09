@@ -1,0 +1,12 @@
+[2025-06-09T02:54:15.829Z] Total: 334020 - Calculado: 333660 - INCONSISTENCIA - Mesas escrutadas: NaN%
+[2025-06-09T02:55:48.452Z] Total: 334020 - Calculado: 333660 - INCONSISTENCIA - Mesas escrutadas: 60%
+[2025-06-09T03:00:48.401Z] Total: 334020 - Calculado: 333660 - INCONSISTENCIA - Mesas escrutadas: 60%
+[2025-06-09T03:05:48.709Z] Total: 334020 - Calculado: 333660 - INCONSISTENCIA - Mesas escrutadas: 60%
+[2025-06-09T03:10:48.377Z] Total: 334020 - Calculado: 333660 - INCONSISTENCIA - Mesas escrutadas: 60%
+[2025-06-09T03:15:48.399Z] Total: 334020 - Calculado: 333660 - INCONSISTENCIA - Mesas escrutadas: 60%
+[2025-06-09T03:20:49.306Z] Total: 0 - Calculado: 0 - OK - Mesas escrutadas: null%
+[2025-06-09T03:20:49.311Z] ERROR: TypeError: Cannot read properties of undefined (reading 'porcentaje')
+[2025-06-09T03:25:48.441Z] Total: 0 - Calculado: 0 - OK - Mesas escrutadas: null%
+[2025-06-09T03:25:48.445Z] ERROR: TypeError: Cannot read properties of undefined (reading 'porcentaje')
+[2025-06-09T03:30:48.324Z] Total: 0 - Calculado: 0 - OK - Mesas escrutadas: null%
+[2025-06-09T03:30:48.326Z] ERROR: TypeError: Cannot read properties of undefined (reading 'porcentaje')
