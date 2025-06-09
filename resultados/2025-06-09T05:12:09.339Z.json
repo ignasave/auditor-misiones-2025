@@ -1,0 +1,76 @@
+{
+  "timestamp": "2025-06-09T05:12:09.339Z",
+  "data": {
+    "partidos": [
+      {
+        "partido": "900 - FRENTE RENOVADOR DE LA CONCORDIA\n\nMacias, Sebastian Horacio",
+        "votos": 148742,
+        "porcentaje": 28.6
+      },
+      {
+        "partido": "96 - LA LIBERTAD AVANZA\n\nHartfield, Diego Gabriel",
+        "votos": 113815,
+        "porcentaje": 21.89
+      },
+      {
+        "partido": "653 - POR LA VIDA Y LOS VALORES\n\nAmarilla, Ramón Oscar",
+        "votos": 99420,
+        "porcentaje": 19.12
+      },
+      {
+        "partido": "184 - AGRARIO Y SOCIAL\n\nBarbaro, Hector Orlando (cacho)",
+        "votos": 46153,
+        "porcentaje": 8.88
+      },
+      {
+        "partido": "657 - PARTIDO LIBERTARIO\n\nArjol, Martin Alfredo",
+        "votos": 43148,
+        "porcentaje": 8.3
+      },
+      {
+        "partido": "902 - FRENTE UNIDOS POR EL FUTURO\n\nKoch, Santiago Nicolas (santi)",
+        "votos": 29802,
+        "porcentaje": 5.73
+      },
+      {
+        "partido": "901 - CONFLUENCIA POPULAR POR LA PATRIA\n\nGurina, Olga Monica",
+        "votos": 12840,
+        "porcentaje": 2.47
+      },
+      {
+        "partido": "656 - TIERRA TECHO Y TRABAJO\n\nSereno, Martin Anibal",
+        "votos": 9119,
+        "porcentaje": 1.75
+      },
+      {
+        "partido": "71 - PARTIDO DEL OBRERO\n\nZeretzki, Anibal Ruben (tato)",
+        "votos": 7679,
+        "porcentaje": 1.48
+      },
+      {
+        "partido": "644 - PARTIDO DE INTEGRACION Y MILITANCIA\n\nCavalheiro, Roberto Juan",
+        "votos": 3840,
+        "porcentaje": 0.74
+      },
+      {
+        "partido": "654 - PARTIDO DEMOCRATA\n\nZart, Nelly",
+        "votos": 2836,
+        "porcentaje": 0.55
+      },
+      {
+        "partido": "641 - MOVIMIENTO POSITIVO\n\nNielsen, Gabriel Conrado",
+        "votos": 2628,
+        "porcentaje": 0.51
+      }
+    ],
+    "resumen": {
+      "VOTOS POSITIVOS": 520022,
+      "VOTOS EN BLANCO": 22211,
+      "VOTOS OBSERVADOS": 6611,
+      "VOTOS DE IDENTIDAD IMPUGNADA": 412,
+      "VOTOS PERSONAL ASIGNADO AL CENTRO DE VOTACION": 48,
+      "TOTAL DE VOTOS": 549304
+    },
+    "porcentajeMesas": 98.9
+  }
+}
